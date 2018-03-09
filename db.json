@@ -90,15 +90,6 @@
 	{
 		"direzione":	"VV"
 	},
-	{
-		"direzione":	"WW"
-	},
-	{
-		"direzione":	"YY"
-	},
-	{
-		"direzione":	"01"
-	}
   ],
   "profile": {
     "name": "typicode"
